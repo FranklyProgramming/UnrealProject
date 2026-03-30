@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal/ProjectSecretOfficil/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Unreal/ProjectSecretOfficil/Content/ThirdPerson/Levles/First_Level.umap",
 				"E:/final/ProjectSecretOfficil/Content/ThirdPerson/Levles/First_Level.umap",
 				"E:/final/ProjectSecretOfficil/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/final/ProjectSecretOfficil/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset",
