@@ -1,0 +1,8 @@
+2026/03/02-10:14:53.114 5b50 Creating DB D:/final/ProjectSecretOfficil/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/03/02-10:14:53.138 5b50 Reusing MANIFEST D:/final/ProjectSecretOfficil/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/02-11:02:01.755 2678 Level-0 table #5: started
+2026/03/02-11:02:01.764 2678 Level-0 table #5: 67694 bytes OK
+2026/03/02-11:02:01.765 2678 Delete type=0 #3
+2026/03/02-11:02:46.452 3e5c Level-0 table #7: started
+2026/03/02-11:02:46.459 3e5c Level-0 table #7: 65172 bytes OK
+2026/03/02-11:02:46.461 3e5c Delete type=0 #4
