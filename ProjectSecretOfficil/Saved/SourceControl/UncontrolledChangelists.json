@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/New folder/ProjectSecretOfficil/Content/ThirdPerson/Levles/First_Level.umap",
+				"C:/New folder/ProjectSecretOfficil/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/New folder/ProjectSecretOfficil/Content/TBRPG/BattleManager/BP_BattleScene.uasset",
 				"C:/Unreal/ProjectSecretOfficil/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Unreal/ProjectSecretOfficil/Content/ThirdPerson/Levles/First_Level.umap",
 				"E:/final/ProjectSecretOfficil/Content/ThirdPerson/Levles/First_Level.umap",
